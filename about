@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Стиль внутри</title>
+	<!--<link rel="stylesheet" type="text/css" href="main.css">-->
+</head>
+<body>
+	Страница №2
+	<a href="http://trim74.github.io/about.html">Страница №1</a>
+</body>
+</html>
